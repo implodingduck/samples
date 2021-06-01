@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/slaestimatorv2/static/css/main.800e34da.chunk.css",
+    "main.js": "/slaestimatorv2/static/js/main.6ee97f15.chunk.js",
+    "main.js.map": "/slaestimatorv2/static/js/main.6ee97f15.chunk.js.map",
+    "runtime-main.js": "/slaestimatorv2/static/js/runtime-main.6ef8b400.js",
+    "runtime-main.js.map": "/slaestimatorv2/static/js/runtime-main.6ef8b400.js.map",
+    "static/css/2.a5f06b7f.chunk.css": "/slaestimatorv2/static/css/2.a5f06b7f.chunk.css",
+    "static/js/2.c5b79816.chunk.js": "/slaestimatorv2/static/js/2.c5b79816.chunk.js",
+    "static/js/2.c5b79816.chunk.js.map": "/slaestimatorv2/static/js/2.c5b79816.chunk.js.map",
+    "index.html": "/slaestimatorv2/index.html",
+    "precache-manifest.0d9a65637336b043fc34cec5fdfa03a2.js": "/slaestimatorv2/precache-manifest.0d9a65637336b043fc34cec5fdfa03a2.js",
+    "service-worker.js": "/slaestimatorv2/service-worker.js",
+    "static/css/2.a5f06b7f.chunk.css.map": "/slaestimatorv2/static/css/2.a5f06b7f.chunk.css.map",
+    "static/css/main.800e34da.chunk.css.map": "/slaestimatorv2/static/css/main.800e34da.chunk.css.map",
+    "static/js/2.c5b79816.chunk.js.LICENSE.txt": "/slaestimatorv2/static/js/2.c5b79816.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ef8b400.js",
+    "static/css/2.a5f06b7f.chunk.css",
+    "static/js/2.c5b79816.chunk.js",
+    "static/css/main.800e34da.chunk.css",
+    "static/js/main.6ee97f15.chunk.js"
+  ]
+}
